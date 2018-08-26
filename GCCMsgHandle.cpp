@@ -22,7 +22,6 @@ GCCMsgHandleFactory::GCCMsgHandleFactory()
     else
     {
         printf("MsgHandlFactoryLogMoudle init failed\n");
-        printf("MsgHandlFactoryLogMoudle init failed\n");
     }
     }
 }
